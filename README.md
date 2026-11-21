@@ -575,7 +575,7 @@ Possible future improvements include:
 
 **OmniBrain – Agentic Multi-Modal RAG Orchestrator**
 
-[https://github.com/purvi2017/OmniBrain](https://github.com/purvi2017/OmniBrain)
+
 
 ---
 
